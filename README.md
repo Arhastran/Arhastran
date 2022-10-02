@@ -1,4 +1,4 @@
-<h1 align="center"> <style = "verdana">Hi 👋, I'm Adam!</h1>
+<h1 align="center">Hi 👋, I'm Adam!</h1>
 <h2 align="center">Student of Photonics from Warsaw University of Technology.</h2>
 
 <h3 align="center">Currently working on simulations of Fiber Bragg Gratings in high temperatures and LPG FBG simulaions in PDMS structures with Liquid Crystals.</h3>
@@ -16,3 +16,4 @@
  
 
  </p>
+
