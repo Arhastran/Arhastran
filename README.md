@@ -3,7 +3,11 @@
 
 <h3 align="center"> 
 ⚙️ Currently working on simulations of Fiber Bragg Gratings in high temperatures and LPG FBG simulations in PDMS structures with Liquid Crystals.
+</h3>
+<h3 align="center"> 
 📖 Now learning more advanced Python, basics of Fusion and HTML
+</h3>
+<h3 align="center"> 
 💻 Soon Master of Science in field of Physics/Photonics 
 </h3>
 
