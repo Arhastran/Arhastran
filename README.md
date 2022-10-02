@@ -12,6 +12,9 @@
  <a href="https://www.ni.com/pl-pl/shop/labview.html"><img src="https://labviewwiki.org/w/images/thumb/9/9f/LV2020.png/256px-LV2020.png" alt="LabVIEW" width ="40" heigh = "40"> </a>
  <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://gwcareercampus.com/wp-content/uploads/sites/40/Microsoft-Excel.png" alt="LabVIEW" width ="40" heigh = "40"> </a>
 <a href="https://www.arduino.cc"><img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="LabVIEW" width ="40" heigh = "40"> </a>
+<a href="http://www.gnumeric.org"><img src=" https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Gnumeric.svg/1200px-Gnumeric.svg.png" alt="LabVIEW" width ="40" heigh = "40"> </a>
  
+
  </p>
+
 
