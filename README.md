@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Adam!</h1>
 <h2 align="center">Student of Photonics from Warsaw University of Technology.</h2>
 
-<h3 align="center"> 
+<h3> 
 ⚙️ Currently working on simulations of Fiber Bragg Gratings in high temperatures and LPG FBG simulations in PDMS structures with Liquid Crystals.
 </h3>
-<h3 align="center"> 
+<h3> 
 📖 Now learning more advanced Python, basics of Fusion and HTML
 </h3>
-<h3 align="center"> 
+<h3> 
 💻 Soon Master of Science in field of Physics/Photonics 
 </h3>
 
