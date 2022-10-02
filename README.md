@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adam!</h1>
+<h1 align="center" style = "verdana">Hi 👋, I'm Adam!</h1>
 <h2 align="center">Student of Photonics from Warsaw University of Technology.</h2>
 
 <h3 align="center">Currently working on simulations of Fiber Bragg Gratings in high temperatures and LPG FBG simulaions in PDMS structures with Liquid Crystals.</h3>
@@ -14,6 +14,5 @@
 <a href="https://www.arduino.cc"><img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="LabVIEW" width ="40" heigh = "40"> </a>
 <a href="http://www.gnumeric.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Gnumeric.svg/1200px-Gnumeric.svg.png" alt="LabVIEW" width ="40" heigh = "40"> </a>
  
-</p>
 
-
+ </p>
