@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adam!</h1>
-<h2 align="center">Master of Sciences and Engineering in Photonics from Warsaw University of Technology.</h2>
+<h2 align="center">Phd Candidate at Warsaw University of Technology and Image Quality Engineer at Samsung R&D Poland</h2>
+<h3 align="center">Master of Sciences and Engineering in Photonics from Warsaw University of Technology.</h3>
 
-<h3 align="center">Currently learning Data Science and ML in Python</h3>
+<h4 align="center">Currently learning Data Science and ML in Python and creating AI solutions for Ellipsometry</h4>
 
 <p align="left">
 </p>
